@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My first website</title>
+</head>
+<body>
+  <h1>My first Web</h1>
+  <ol>
+    <li><a href="forms.html" target="_blank">Forms <a></li>
+    <li><a href="images.html" target="_blank">Pictures <a></li>
+    <li><a href="qwerty.html" target="_blank">Table <a></li>
+  </ol>
+</body>
+</html>
